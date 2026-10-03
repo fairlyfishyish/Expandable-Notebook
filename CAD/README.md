@@ -1,1 +1,1 @@
-This folder is to be used to upload all .f3d, .step, and .blend files for this project. For .stl files place them in the STL folder 
+This folder is to be used to upload all .f3d and .step files for this project. 

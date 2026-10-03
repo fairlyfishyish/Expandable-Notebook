@@ -1,0 +1,1 @@
+This folder is to be used to upload all .stl files for this project. 
