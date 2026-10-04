@@ -1,6 +1,6 @@
 Alr so this is a version which is being worked on seperately as a much more detailed version.
 
-#V2.1
+# V2.1
 I updated export_stl.sh to find OpenSCAD on that disk image as well as in the usual places. From now on ./export_stl.sh runs as-is, and it takes about a minute for all parts.
 
 The bounding boxes match the design:
