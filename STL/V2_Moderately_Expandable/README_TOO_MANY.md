@@ -15,4 +15,4 @@ latch_clip	85.9 × 40 × 6.4
 
 Both covers are 220 mm in Y, so you need a bed of about 230 mm or more.
 
-I haven't verified the 45° overhang rule or the hinge clearances. The latch-clip bounding box matches the intended 85.9 × 40 mm flat strap and plate, but the pen holder, bridge arms and hinge fit still need a physical check. Print one hinge section and the latch first, and tell me what fits badly.
+I haven't verified the 45° overhang rule or the hinge clearances. The latch-clip bounding box matches the intended 85.9 × 40 mm flat strap and plate, but the pen holder, bridge arms and hinge fit still need a physical check. Print one hinge section and the latch first and see what fits badly
