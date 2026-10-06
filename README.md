@@ -29,3 +29,4 @@ Push a straight piece of 1.75mm filament down each hinge hole. Trim the ends flu
 Thread rubber bands through the internal spine hooks.
 
 Fold your A5 paper in half, slip them under the bands, and you're good to go!
+Edit: Added Communism
